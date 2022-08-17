@@ -24,7 +24,8 @@
       "Utils/*": ["./src/utils/*"],
       "Data/*": ["./src/data/*"],
       "Pages/*": ["./src/pages/*"],
-      "Redux/*": ["./src/redux/*"]
+      "Redux/*": ["./src/redux/*"],
+      "Theme/*": ["./src/theme/*"]
     }
   },
   "include": ["src"],

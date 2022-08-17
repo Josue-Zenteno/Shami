@@ -14,8 +14,8 @@ export default defineConfig({
       { find: 'Utils', replacement: path.resolve(__dirname, 'src/utils') },
       { find: 'Data', replacement: path.resolve(__dirname, 'src/data') },
       { find: 'Pages', replacement: path.resolve(__dirname, 'src/pages') },
-      { find: 'Redux', replacement: path.resolve(__dirname, 'src/redux') }
+      { find: 'Redux', replacement: path.resolve(__dirname, 'src/redux') },
+      { find: 'Theme', replacement: path.resolve(__dirname, 'src/theme') }
     ]
   }
 });
-
